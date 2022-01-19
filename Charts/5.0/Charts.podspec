@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
 spec.name          = 'Charts'
-spec.version       = '4.0.1'
+spec.version       = 'v4.0.1'
 spec.license       = { :type => 'MIT' }
 spec.authors       = 'Surya'
 spec.summary       = 'iOS API Provoider for Desk'
