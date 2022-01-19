@@ -1,10 +1,10 @@
 Pod::Spec.new do |spec|
 spec.name          = 'Charts'
-spec.version       = '1.1.6'
+spec.version       = 'v4.0.1'
 spec.license       = { :type => 'MIT' }
 spec.authors       = 'Surya'
 spec.summary       = 'iOS API Provoider for Desk'
-spec.source        = { :git => 'https://github.com/danielgindi/Charts.git', :tag => spec.version }
+spec.source        = { :git => 'https://github.com/danielgindi/Charts.git', :tag => spec.version, :tag => spec.version  }
 
 spec.ios.deployment_target  = '9.0'
 spec.swift_version = '5'
