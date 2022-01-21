@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://zgit.csez.zohocorpin.com/ZohoDeskMobile/charts_ios'
   s.license          = { :type => 'MIT', :text => 'LICENSE' }
   s.authors          = { 'Uma S' => 'umamaheshwaran.s@zohocorp.com'}
-  s.source           = { :git => 'https://zgit.csez.zohocorpin.com/ZohoDeskMobile/charts_ios.git', :tag => s.version }
+  s.source           = { :git => 'https://zgit.csez.zohocorpin.com/ZohoDeskMobile/charts_ios.git', :branch => 'Surya' }
   s.platform         = :ios, '9.0'
 
   s.source_files = 'native/**/*.{swift,h,m}'
