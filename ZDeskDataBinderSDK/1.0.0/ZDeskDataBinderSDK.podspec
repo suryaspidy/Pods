@@ -16,8 +16,8 @@ spec.resources = 'native/BINDER/ZDeskDataBinderSDK/**/*.{strings,xib,xcassets,st
 spec.framework      = 'UIKit'
 spec.framework = 'ZPPlatformUI'
 
-# spec.dependency 'ZohoDeskSDK'
-# spec.dependency 'ZohoDeskSDKInhouse'
+spec.dependency 'ZohoDeskSDK'
+spec.dependency 'ZohoDeskSDKInhouse'
 # spec.dependency 'TicketPermissionHelper'
 spec.dependency 'ZohoCoreDataBridge'
 # spec.dependency 'SDWebImage/WebP'
