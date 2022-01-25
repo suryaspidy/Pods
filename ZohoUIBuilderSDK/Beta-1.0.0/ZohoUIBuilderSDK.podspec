@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
 spec.name          = 'ZohoUIBuilderSDK'
-spec.version       = '1.0.0'
+spec.version       = 'Beta-1.0.0'
 spec.license       = { :type => 'MIT' }
 spec.homepage      = 'https://desk.zoho.com'
 spec.authors       = { 'Aravindhan' => 'aravindhan.natarajan@zohocorp.com' }
