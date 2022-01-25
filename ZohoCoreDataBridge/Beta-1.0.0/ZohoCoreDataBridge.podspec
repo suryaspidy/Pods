@@ -5,7 +5,7 @@ spec.license       = { :type => 'MIT' }
 spec.homepage      = 'https://desk.zoho.com'
 spec.authors       = { 'Aravindhan' => 'aravindhan.natarajan@zohocorp.com' }
 spec.summary       = 'UIComponent framework for Desk'
-spec.source        = { :git => 'https://zgit.csez.zohocorpin.com/ZohoDeskMobile/desk-platform-sdk-ios.git', :branch => 'ASAP5.0' }
+spec.source        = { :git => 'https://zgit.csez.zohocorpin.com/ZohoDeskMobile/desk-platform-sdk-ios.git', :branch => 'Beta-1.0.0' }
 
 spec.ios.deployment_target  = '10.0'
 spec.swift_version = '5'
